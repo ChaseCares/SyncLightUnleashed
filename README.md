@@ -86,12 +86,17 @@ These steps are required if the Wi-Fi information is not baked into the firmware
 
 If all goes well the device should be accessible via the IP or <device_name>.local and syncing they're light patterns.
 
+## Usage
+
+The circular button on the back of the device will cycle through: red, green, blue and rainbow. The web interface of the device provides a bit more functionality, including selecting a specific effect, brightness control and any other functionality you would like to add, the possibilities are endless!
+
 ## TODO
 
 * When available, integrate the WireGuard component <https://github.com/droscy/esp_wireguard/tree/draft/esp8266/5>
 * Add more effects <https://esphome.io/components/light/#light-effects>
 * Utilized less lambda
 * Refine weird back button
+* Make long press turn off device
 
 ## Motivation
 
