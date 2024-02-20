@@ -12,7 +12,7 @@ The [Long Distance Friendship Hearts](https://synclight.ca/products/long-distanc
 Images:
 
 * [Front](./img/IMG_0940.jpg)
-* [Back](./img/IMG_0940.jpg)
+* [Back](./img/IMG_0941.jpg)
 
 Characteristics:
 
